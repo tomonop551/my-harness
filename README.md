@@ -1,4 +1,4 @@
-# my-harness
+# my-hermes
 
 ## template
 ```
